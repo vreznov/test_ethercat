@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/test2.dir/m2.cpp.o -o test2  /usr/lib/soem/libsoem.a /usr/lib/soem/liboshw.a /usr/lib/soem/libosal.a -lpthread 
